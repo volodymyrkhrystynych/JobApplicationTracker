@@ -1,4 +1,4 @@
-# JobApplicationTracker
+# Job Application Tracker
 
 The main point of this app is to track to which companies the user has sent their resume to as well as positions.
 
